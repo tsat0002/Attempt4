@@ -5,4 +5,9 @@ date: "2023-05-20"
 output: html_document
 ---
 
+Hello! This is the first line of my final project.
+
 This project will hopefully show case the skills I have learnt in git.
+
+
+
